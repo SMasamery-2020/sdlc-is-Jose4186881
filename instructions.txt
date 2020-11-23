@@ -1,6 +1,18 @@
 With you partner search the following questions and create a presentation.
 What is SDLC?
+SDLC or Software Development Life Cycle is the process in which a majority of the software industry go through when making
+and testing out their products.
+
 What are the stages of SDLC? explain 
+
+The stages of SDLC is Planning, Analysis, Design, Implementation, Testing and Intergration, and Maintenance. Planning 
+is the first part and mostly has to deal with planning out what to create and what materials will be needed and the cost of the product, if any. 
+Analysis is analyzing the details laid out and seeing if the next steps are reachable. Design is when the base model of whatever is being made is created. Implementation is 
+when the product is built with the coding finished. Testing and Integration is when the people working on the product test it out to see if there are any bugs in it.
+Maintenance is when the product is released and the architecture of the product is changed depending on future needs. 
+
 Define five SDLC moldels (methodology).
+
+
 Take one of the SDLC models and explain the implementation process.
 Describe how to apply SDLC model in the version control App.
